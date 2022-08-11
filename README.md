@@ -7,7 +7,7 @@ A Flutter Project for Mobile App served you popular and recomended news.
 This project is built with clean architecture guidance by Uncle Bob.
 Separate folder:<br/>
 
-# lib
+# Library
 - [Dependency Injection / Service Locator](https://pub.dev/packages/get_it)
 - [Type Convertion Dio Client](https://pub.dev/packages/retrofit)
 - [Business Logic Component](https://pub.dev/packages/flutter_bloc)
