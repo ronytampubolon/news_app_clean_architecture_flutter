@@ -5,14 +5,14 @@ A Flutter Project for Mobile App served you popular and recomended news.
 ## Getting Started
 
 This project is built with clean architecture guidance by Uncle Bob.
-Separate folder:
-.
-├── core                    # params, abstract usecase, abstract bloc state
-├── data                    # datasource,model,repositories
-├── domain                  # entities,repositories,usecases
-├── presentation            # bloc, widgets, scren
-└── injector.dart           # dependency injection
-└── main.dart               # main entry
+Separate folder:<br/>
+.<br/>
+├── core                    # params, abstract usecase, abstract bloc state<br/>
+├── data                    # datasource,model,repositories<br/>
+├── domain                  # entities,repositories,usecases<br/>
+├── presentation            # bloc, widgets, scren<br/>
+└── injector.dart           # dependency injection<br/>
+└── main.dart               # main entry<br/>
 
 Here a few resources to get you started and learn more in Flutter Project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
