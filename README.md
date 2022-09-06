@@ -2,6 +2,8 @@
 
 A Flutter Project for Mobile App served you popular and recomended news.
 
+<img src="https://raw.githubusercontent.com/ronytampubolon/news_app_clean_architecture_flutter/master/simulator_screenshot_70D4976A-F08F-43A8-9049-E7F7C3042477.png" width="280">
+
 ## Getting Started
 
 This project is built with clean architecture guidance by Uncle Bob.
